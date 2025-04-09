@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fabricio
+# 👨‍💻Fabricio
 
 
 
@@ -111,7 +111,7 @@ Me chamo Fabricio. Atualmente, estou cursando Análise e Desenvolvimento de Sist
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  📈Estatísticas
 
 <p>
   <img 
