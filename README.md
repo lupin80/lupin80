@@ -2,7 +2,7 @@
 
 
 
-Eu Me chamo Fabricio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMES. Sou apaixonada por tecnologia.
+Me chamo Fabricio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMES. Sou apaixonada por tecnologia.
 
 <p align="left">
      <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
